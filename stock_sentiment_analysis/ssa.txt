@@ -1,0 +1,3 @@
+Sentiment analysis of stocks. <br />
+Based on news headlines i predicted whether the stock price will move up or down.<br />
+Used Bag of words and then used Random forest classifier.
